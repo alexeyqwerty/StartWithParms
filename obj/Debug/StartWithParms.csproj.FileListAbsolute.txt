@@ -1,0 +1,15 @@
+D:\Alex\StartWithParms\bin\Debug\StartWithParms.exe.config
+D:\Alex\StartWithParms\bin\Debug\StartWithParms.exe
+D:\Alex\StartWithParms\bin\Debug\StartWithParms.pdb
+D:\Alex\StartWithParms\obj\Debug\StartWithParms.csproj.AssemblyReference.cache
+D:\Alex\StartWithParms\obj\Debug\MainWindow.g.cs
+D:\Alex\StartWithParms\obj\Debug\App.g.cs
+D:\Alex\StartWithParms\obj\Debug\StartWithParms_MarkupCompile.cache
+D:\Alex\StartWithParms\obj\Debug\StartWithParms_MarkupCompile.lref
+D:\Alex\StartWithParms\obj\Debug\MainWindow.baml
+D:\Alex\StartWithParms\obj\Debug\StartWithParms.g.resources
+D:\Alex\StartWithParms\obj\Debug\StartWithParms.Properties.Resources.resources
+D:\Alex\StartWithParms\obj\Debug\StartWithParms.csproj.GenerateResource.cache
+D:\Alex\StartWithParms\obj\Debug\StartWithParms.csproj.CoreCompileInputs.cache
+D:\Alex\StartWithParms\obj\Debug\StartWithParms.exe
+D:\Alex\StartWithParms\obj\Debug\StartWithParms.pdb
